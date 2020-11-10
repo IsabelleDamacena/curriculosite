@@ -348,11 +348,13 @@ header p{
 	align-items: center;
 	padding-top: 20px;
 	background-color: #edd7cb;
+
 	
 }
 
 .cert {
-	width: 50%;
+	flex-direction: column;
+	width: 20%;
 	align-items: center;
 	padding: 10px;
 	
@@ -573,6 +575,7 @@ header{
  }
 	
 /*Certificado*/
+
 
 #certificado img {
 	
